@@ -14,6 +14,12 @@
     "binding": "ASSETS",
     "not_found_handling": "single-page-application"
   },
+"routes": [
+    {
+      "pattern": "thnk.edu.vn",
+      "custom_domain": true
+    }
+  ]
   // Hyperdrive binding is optional - if not provided, app will use mock data
   // To enable Hyperdrive, uncomment and configure properly:
   /*
